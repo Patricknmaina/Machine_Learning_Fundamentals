@@ -3,3 +3,6 @@ __pycache__/
 
 # zone identifiers
 *.Identifier
+
+# virtual environment
+env/
